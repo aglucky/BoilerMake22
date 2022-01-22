@@ -190,3 +190,212 @@ The class has two lab options: ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB). 
 186,,http://csd.cs.cmu.edu/content/15-131-great-practical-ideas-computer-scientists,Great Practical Ideas for Computer Scientists,15-131,https://www.cs.cmu.edu/~15131/
 187,,http://csd.cs.cmu.edu/course-profiles/15-121-Introduction-to-Data-Structures,Introduction to Data Structures,15-121,"http://www.cs.cmu.edu/~mjs/121/,http://www.cs.cmu.edu/~mjs/121/"
 188,,http://csd.cs.cmu.edu/course-profiles/15-104-Introduction-to-Computing-for-Creative-Practice,Introduction to Computing for Creative Practice,15-104,https://courses.ideate.cmu.edu/15-104/f2016/
+189,,, Fundamental Programming Concepts,1109,https://classes.cornell.edu/browse/roster/SU20/class/CS/1109
+190,,, Introduction to Computing Using Python,1110,https://classes.cornell.edu/browse/roster/SP22/class/CS/1110
+191,,, Introduction to Computing Using MATLAB,1112,http://www.cs.cornell.edu/courses/CS1112/2021sp/
+192,,, Short Course in MATLAB,1132,http://www.cs.cornell.edu/courses/CS1132/2021sp/
+193,,, Short Course in Python,1133,https://classes.cornell.edu/browse/roster/SP22/class/CS/1133
+194,,, Introductory Design and Programming for the Web,1300,https://classes.cornell.edu/browse/roster/SP22/class/CS/1300
+195,,, Choices and Consequences in Computing,1340,http://www.cs.cornell.edu/courses/CS1340/2021sp/
+196,,, Data Science for All,1380,http://www.cs.cornell.edu/courses/CS1380/2020sp/
+197,,, Computing in the Arts,1610,https://classes.cornell.edu/browse/roster/SU21/class/CS/1610
+198,,, Visual Imaging in the Electronic Age,1620,https://www.graphics.cornell.edu/sites/default/files/inline-files/Revised%20Visual%20Imaging%20Web%20Article%204.2_0.pdf
+199,,, Introduction to Cognitive Science,1710,https://classes.cornell.edu/browse/roster/SP22/class/CS/1710
+200,,, Freshmen and Nontechnical Team Projects,1998,https://classes.cornell.edu/browse/roster/SP22/class/CS/1998
+201,,, C++ Programming,2024,http://www.cs.cornell.edu/courses/CS2024/2019fa/
+202,,, UNIX Tools and Scripting,2043,http://www.cs.cornell.edu/courses/CS2043/2020sp/
+203,,, Object-Oriented Programming and Data Structures,2110,https://classes.cornell.edu/browse/roster/SP22/class/CS/2110
+204,,, Programming Practicum,2111,http://www.cs.cornell.edu/courses/CS2111/2021sp/
+205,,, Object-Oriented Design and Data Structures - Honors,2112,http://www.cs.cornell.edu/courses/CS2112/2019fa/
+206,,, Intermediate Design and Programming for the Web,2300,http://www.cs.cornell.edu/courses/CS2300/2020sp/
+207,,, Urban Analytics,2382,https://classes.cornell.edu/browse/roster/FA20/class/CS/2382
+208,,, Excursions in Computational Sustainability,2770,https://classes.cornell.edu/browse/roster/SP21/class/CS/2770
+209,,, Discrete Structures,2800,https://classes.cornell.edu/browse/roster/SP22/class/CS/2800
+210,,, Discrete Structures - Honors,2802,http://www.cs.cornell.edu/courses/CS2802/2019sp/
+211,,, Networks,2850,http://www.cs.cornell.edu/courses/CS2850/2019fa/
+212,,, Data Structures and Functional Programming,3110,http://www.cs.cornell.edu/courses/CS3110/2021sp/
+213,,, Introduction to Computer Game Architecture,3152,http://www.cs.cornell.edu/courses/CS3152/2020sp/
+214,,, Computational Mathematics for Computer Science,3220,http://www.cs.cornell.edu/courses/CS3220/2019fa/
+215,,, Data-Driven Web Applications,3300,http://www.cs.cornell.edu/courses/CS3300/2020sp/
+216,,, Computer System Organization and Programming,3410,http://www.cs.cornell.edu/courses/CS3410/2021sp/
+217,,, Embedded Systems,3420,https://classes.cornell.edu/browse/roster/SP22/class/CS/3420
+218,,, Autonomous Mobile Robots,3758,https://classes.cornell.edu/browse/roster/SP22/class/CS/3758
+219,,, Teaching Experience in Computer Science,4090,https://classes.cornell.edu/browse/roster/SP22/class/CS/4090
+220,,, Programming Languages and Logics,4110,http://www.cs.cornell.edu/courses/CS4110/2018fa/
+221,,, Introduction to Compilers,4120,http://www.cs.cornell.edu/courses/CS4120/2020sp/
+222,,, Practicum in Compilers,4121,http://www.cs.cornell.edu/courses/CS4121/2020sp/
+223,,, Advanced Topics in Computer Game Architecture,4152,http://www.cs.cornell.edu/courses/CS4152/2020sp/
+224,,, Formal Verification,4160,http://www.cs.cornell.edu/courses/CS4160/2019sp/
+225,,, Numerical Analysis and Differential Equations,4210,https://classes.cornell.edu/browse/roster/FA21/class/CS/4210
+226,,, Numerical Analysis,4220,http://www.cs.cornell.edu/courses/CS4220/2021sp/
+227,,, Language and Information,4300,http://www.cs.cornell.edu/courses/CS4300/2020sp/
+228,,, Introduction to Database Systems,4320,http://www.cs.cornell.edu/courses/CS4320/2019fa/
+229,,, Practicum in Database Systems,4321,http://www.cs.cornell.edu/courses/CS4321/2018fa/
+230,,, Operating Systems,4410,http://www.cs.cornell.edu/courses/CS4410/2021sp/
+231,,, Practicum in Operating Systems,4411,http://www.cs.cornell.edu/courses/CS4411/2021sp/
+232,,, Systems Programming,4414,http://www.cs.cornell.edu/courses/cs4414/2020fa/
+233,,, Computer Architecture,4420,http://www.cs.cornell.edu/courses/CS4420/2019fa/
+234,,, Introduction to Computer Networks,4450,http://www.cs.cornell.edu/courses/CS4450/2019sp/
+235,,, Introduction to Computer Graphics,4620,http://www.cs.cornell.edu/courses/CS4620/2019fa/
+236,,, Computer Graphics Practicum,4621,http://www.cs.cornell.edu/courses/CS4621/2019fa/
+237,,, Introduction to Computer Vision,4670,http://www.cs.cornell.edu/courses/CS4670/2020sp/
+238,,, Foundations of Artificial Intelligence,4700,http://www.cs.cornell.edu/courses/CS4700/2021sp/
+239,,, Practicum in Artificial Intelligence,4701,http://www.cs.cornell.edu/courses/CS4701/2021sp/
+240,,, Natural Language Processing,4740,http://www.cs.cornell.edu/courses/CS4740/2019fa/
+241,,, Computational Linguistics,4744,https://classes.cornell.edu/browse/roster/SP22/class/CS/4744
+242,,, Foundations of Robotics,4750,http://www.cs.cornell.edu/courses/CS4750/2018fa/
+243,,, Re-Designing Robots,4754,https://classes.cornell.edu/browse/roster/FA21/class/CS/4754
+244,,, Autonomous Mobile Robots,4758,https://classes.cornell.edu/browse/roster/SP22/class/CS/4758
+245,,, Computational Genetics and Genomics,4775,https://classes.cornell.edu/browse/roster/FA20/class/CS/4775
+246,,, Introduction to Machine Learning,4780,http://www.cs.cornell.edu/courses/CS4780/2021sp/
+247,,, Mathematical Foundations of Machine Learning,4783,https://classes.cornell.edu/browse/roster/SP22/class/CS/4783
+248,,, Machine Learning for Data Science,4786,http://www.cs.cornell.edu/courses/CS4786/2017fa/
+249,,, Principles of Large-Scale Machine Learning Systems,4787,http://www.cs.cornell.edu/courses/CS4787/2019sp/
+250,,, Introduction to Reinforcement Learning,4789,https://classes.cornell.edu/browse/roster/SP22/class/CS/4789
+251,,, Introduction to Theory of Computing,4810,http://www.cs.cornell.edu/courses/CS4810/2018fa/
+252,,, Quantum Information Processing,4812,http://www.cs.cornell.edu/courses/CS4812/2018fa/
+253,,, Introduction to Computational Complexity,4814,http://www.cs.cornell.edu/courses/CS4814/2020sp/
+254,,, Introduction to Analysis of Algorithms,4820,https://classes.cornell.edu/browse/roster/SP22/class/CS/4820
+255,,, Introduction to Cryptography,4830,https://cs4830-sp17.jimdo.com/
+256,,, Mathematical Foundations for the Information Age,4850,http://www.cs.cornell.edu/courses/CS4850/2019sp/
+257,,, Networks II,4852,https://classes.cornell.edu/browse/roster/SP22/class/CS/4852
+258,,, Applied Logic,4860,http://www.cs.cornell.edu/courses/CS4860/2019fa/
+259,,, International Research Internship,4990,https://classes.cornell.edu/browse/roster/SP21/class/CS/4990
+260,,, Practical Training in Computer Science,4997,https://classes.cornell.edu/browse/roster/SP22/class/CS/4997
+261,,, Team Projects,4998,https://classes.cornell.edu/browse/roster/SP22/class/CS/4998
+262,,, Independent Reading and Research,4999,https://classes.cornell.edu/browse/roster/SP22/class/CS/4999
+263,,," Introduction to Blockchains, Cryptocurrencies, and Smart Contracts",5094,https://classes.cornell.edu/browse/roster/SP18/class/CS/5094
+264,,, Programming Languages and Logics,5110,https://www.cs.cornell.edu/courses/cs4110/2018fa/
+265,,, Algorithms and Data Structures for Applications,5112,http://www.cs.cornell.edu/courses/CS5112/2020fa/
+266,,, Software-Defined Networking,5114,http://www.cs.cornell.edu/courses/CS5114/2019fa/
+267,,, Introduction to Compilers,5120,http://www.cs.cornell.edu/courses/CS5120/2020sp/
+268,,, Practicum in Compilers,5121,http://www.cs.cornell.edu/courses/CS5121/2020sp/
+269,,, Computational Integer Programming,5135,https://classes.cornell.edu/browse/roster/SP22/class/CS/5135
+270,,, Software Engineering,5150,http://www.cs.cornell.edu/courses/CS5150/2019sp/
+271,,, Advanced Topics in Computer Game Architecture,5152,http://www.cs.cornell.edu/courses/CS5152/2019sp/
+272,,, Software Testing,5154,http://www.cs.cornell.edu/courses/CS5154/2021sp/
+273,,, Formal Verification,5160,https://classes.cornell.edu/browse/roster/SP22/class/CS/5160
+274,,, Competition Programming and Problem Solving Seminar,5199,http://www.cs.cornell.edu/courses/CS5199/2019sp/
+275,,, Applications of Parallel Computers,5220,http://www.cs.cornell.edu/courses/CS5220/2017fa/
+276,,, Numerical Analysis,5223,https://classes.cornell.edu/browse/roster/SP22/class/CS/5223
+277,,, Data Science in the Wild,5304,https://classes.cornell.edu/browse/roster/SP22/class/CS/5304
+278,,, Crowdsourcing and Human Computation,5306,http://www.cs.cornell.edu/courses/CS5306/2018fa/
+279,,, Introduction to Database Systems,5320,http://www.cs.cornell.edu/courses/CS5320/2019fa/
+280,,, Practicum in Database Systems,5321,http://www.cs.cornell.edu/courses/cs4321/2018fa/
+281,,, Building Startup Systems,5356,https://classes.cornell.edu/browse/roster/SP22/class/CS/5356
+282,,, Operating Systems,5410,http://www.cs.cornell.edu/courses/CS5410/2021fa/
+283,,, Practicum in Operating Systems,5411,http://www.cs.cornell.edu/courses/CS5411/2021fa/
+284,,, Cloud Computing,5412,http://www.cs.cornell.edu/courses/CS5412/2021sp/
+285,,, Distributed Computing Principles,5414,http://www.cs.cornell.edu/courses/CS5414/2018fa/
+286,,, Advanced Computer Architecture,5420,https://classes.cornell.edu/browse/roster/FA21/class/CS/5420
+287,,, Developing and Designing Interactive Devices,5424,https://classes.cornell.edu/browse/roster/FA21/class/CS/5424
+288,,, System Security,5430,http://www.cs.cornell.edu/courses/CS5430/2020sp/
+289,,, Practicum in System Security,5431,http://www.cs.cornell.edu/courses/CS5431/2017sp/
+290,,, Advanced System Security,5432,http://www.cs.cornell.edu/courses/CS5432/2021sp/
+291,,," Blockchains, Cryptocurrencies, and Smart Contracts",5433,https://classes.cornell.edu/browse/roster/SP22/class/CS/5433
+292,,, Security and Privacy Concepts in the Wild,5435,https://classes.cornell.edu/browse/roster/FA21/class/CS/5435
+293,,, Privacy in the Digital Age,5436,https://classes.cornell.edu/browse/roster/SP22/class/CS/5436
+294,,, Practicum in Computer Security,5439,https://github.com/cornelltech/CS5439-Fall2018
+295,,, Networked and Distributed Systems,5450,https://classes.cornell.edu/browse/roster/SP20/class/CS/5450
+296,,, Introduction to Computer Graphics,5620,http://www.cs.cornell.edu/courses/CS5620/2019fa/
+297,,, Computer Graphics Practicum,5621,http://www.cs.cornell.edu/courses/CS5621/2019fa/
+298,,, Interactive Computer Graphics,5625,http://www.cs.cornell.edu/courses/CS5625/2020sp/
+299,,, Virtual and Augmented Reality,5650,https://classes.cornell.edu/browse/roster/FA21/class/CS/5650
+300,,, Signal Processing,5660,https://classes.cornell.edu/browse/roster/FA16/class/CS/5660
+301,,, Introduction to Computer Vision,5670,http://www.cs.cornell.edu/courses/CS5670/2021sp/
+302,,, Topics in Mixed Reality,5678,https://classes.cornell.edu/browse/roster/SP22/class/CS/5678
+303,,, HCI and Design,5682,http://www.cs.cornell.edu/courses/CS5682/2019fa/
+304,,, Foundations of Artificial Intelligence,5700,http://www.cs.cornell.edu/courses/CS5700/2021fa/
+305,,, Practicum in Artificial Intelligence,5701,https://classes.cornell.edu/browse/roster/FA21/class/CS/5701
+306,,, Inference and Decision Making,5726,https://classes.cornell.edu/browse/roster/SP22/class/CS/5726
+307,,, Optimization Methods,5727,https://classes.cornell.edu/browse/roster/FA21/class/CS/5727
+308,,, Natural Language Processing,5740,http://www.cs.cornell.edu/courses/CS5740/2021sp/
+309,,, Foundations of Robotics,5750,http://www.cs.cornell.edu/courses/CS5750/2017fa/
+310,,, Autonomous Mobile Robots,5758,https://classes.cornell.edu/browse/roster/SP22/class/CS/5758
+311,,, Introduction to Machine Learning,5780,http://www.cs.cornell.edu/courses/CS5780/2021sp/
+312,,, Machine Learning Engineering,5781,https://classes.cornell.edu/browse/roster/FA21/class/CS/5781
+313,,, Mathematical Foundations of Machine Learning,5783,https://classes.cornell.edu/browse/roster/SP22/class/CS/5783
+314,,, Applied Machine Learning,5785,https://classes.cornell.edu/browse/roster/FA21/class/CS/5785
+315,,, Machine Learning for Data Science,5786,https://classes.cornell.edu/browse/roster/SP20/class/CS/5786
+316,,, Deep Learning,5787,https://classes.cornell.edu/browse/roster/SP22/class/CS/5787
+317,,, Introduction to Reinforcement Learning,5789,https://classes.cornell.edu/browse/roster/SP22/class/CS/5789
+318,,, Introduction to Analysis of Algorithms,5820,https://classes.cornell.edu/browse/roster/SP22/class/CS/5820
+319,,, Cryptography,5830,https://classes.cornell.edu/browse/roster/SP22/class/CS/5830
+320,,, Security Protocols and Privacy,5831,
+321,,, Decision Theory I,5846,http://www.cs.cornell.edu/courses/CS5846/2017sp/
+322,,, Mathematical Foundations for the Information Age,5850,https://classes.cornell.edu/browse/roster/SP22/class/CS/5850
+323,,, Networks and Markets,5854,https://classes.cornell.edu/browse/roster/SP21/class/CS/5854
+324,,, Master of Engineering Internship,5998,https://classes.cornell.edu/browse/roster/SP22/class/CS/5998
+325,,, Master of Engineering Project,5999,https://classes.cornell.edu/browse/roster/SP22/class/CS/5999
+326,,, Advanced Programming Languages,6110,http://www.cs.cornell.edu/courses/CS6110/2021sp/
+327,,, Language-Based Security,6113,http://www.cs.cornell.edu/courses/CS6113/2018fa/
+328,,, Software-Defined Networking,6114,http://www.cs.cornell.edu/courses/CS6114/2019fa/
+329,,, Certified Software Systems,6115,http://www.cs.cornell.edu/courses/CS6115/2017fa/
+330,,, Category Theory for Computer Scientists,6117,http://www.cs.cornell.edu/courses/CS6117/2018sp/
+331,,, Advanced Compilers,6120,http://www.cs.cornell.edu/courses/CS6120/2019fa/
+332,,, Runtime Verification,6156,http://www.cs.cornell.edu/courses/CS6156/2020fa/
+333,,, Program Synthesis,6172,https://classes.cornell.edu/browse/roster/FA21/class/CS/6172
+334,,, Introduction to Constructive Type Theory,6180,http://www.cs.cornell.edu/courses/CS6180/2017fa/
+335,,, Foundations of Probabilistic Programming,6182,http://www.cs.cornell.edu/courses/CS6182/2021fa/
+336,,, Matrix Computations,6210,http://www.cs.cornell.edu/courses/CS6210/2019fa/
+337,,, Data-Sparse Matrix Computations,6220,http://www.cs.cornell.edu/courses/CS6220/2017fa/
+338,,, Numerical Methods for Data Science,6241,http://www.cs.cornell.edu/courses/CS6241/2019sp/
+339,,, Advanced Database Systems,6320,http://www.cs.cornell.edu/courses/CS6320/2019sp/
+340,,, Educational Technology,6360,http://www.cs.cornell.edu/courses/CS6360/2016fa/
+341,,, Data Science for Social Change,6382,https://classes.cornell.edu/browse/roster/SP22/class/CS/6382
+342,,, Advanced Systems,6410,http://www.cs.cornell.edu/courses/CS6410/2019fa/
+343,,, Systems Principles,6411,http://www.cs.cornell.edu/courses/CS6411/2018sp/
+344,,, Security and Privacy Technologies,6431,https://classes.cornell.edu/browse/roster/FA21/class/CS/6431
+345,,, Advanced Computer Networking,6450,http://www.cs.cornell.edu/courses/CS6450/2018fa/
+346,,, Emerging Cloud Technologies and Systems Challenges,6465,http://www.cs.cornell.edu/courses/CS6465/2017fa/
+347,,, Cryptocurrencies and Smart Contracts,6466,http://www.cs.cornell.edu/courses/CS6466/2018sp/
+348,,, Systems Software and Formal Methods,6480,http://www.cs.cornell.edu/courses/CS6480/2020sp/
+349,,, Computer Vision,6670,http://www.cs.cornell.edu/courses/CS6670/2018fa/
+350,,, Computation for Content Creation,6682,http://www.cs.cornell.edu/courses/CS6682/2021sp/
+351,,, Advanced Artificial Intelligence,6700,https://classes.cornell.edu/browse/roster/SP21/class/CS/6700
+352,,, Advanced Language Technologies,6740,http://www.cs.cornell.edu/courses/CS6740/2019fa/
+353,,, Topics in Natural Language Processing and Machine Learning,6741,http://www.cs.cornell.edu/courses/CS6741/2021fa/
+354,,, Natural Language Processing and Social Interaction,6742,http://www.cs.cornell.edu/courses/CS6742/2018fa/
+355,,, Robot Manipulation,6751,https://classes.cornell.edu/browse/roster/SP22/class/CS/6751
+356,,, Formal Methods for Robotics,6752,https://classes.cornell.edu/browse/roster/FA21/class/CS/6752
+357,,, Reasoning about Knowledge,6764,http://www.cs.cornell.edu/courses/CS6764/2018fa/
+358,,, Advanced Machine Learning,6780,http://www.cs.cornell.edu/courses/CS6780/2019sp/
+359,,, Theoretical Foundations of Machine Learning,6781,http://www.cs.cornell.edu/courses/CS6781/2020sp/
+360,,, Machine Learning Theory,6783,http://www.cs.cornell.edu/courses/CS6783/2018fa/
+361,,, Advanced Topics in Machine Learning,6784,https://classes.cornell.edu/browse/roster/SP22/class/CS/6784
+362,,, Deep Probabilistic and Generative Models,6785,https://classes.cornell.edu/browse/roster/SP22/class/CS/6785
+363,,, Advanced Machine Learning Systems,6787,http://www.cs.cornell.edu/courses/CS6787/2019fa/
+364,,, Advanced Topic Modeling,6788,https://mimno.infosci.cornell.edu/info6150/
+365,,, Foundations of Reinforcement Learning,6789,https://classes.cornell.edu/browse/roster/FA21/class/CS/6789
+366,,, Lattices,6802,https://classes.cornell.edu/browse/roster/FA21/class/CS/6802
+367,,, Theory of Computing,6810,http://www.cs.cornell.edu/courses/CS6810/2017sp/
+368,,, Pseudorandomness and Combinatorial Constructions,6815,http://www.cs.cornell.edu/courses/CS6815/2018fa/
+369,,, Special Topics in Complexity Theory,6817,http://www.cs.cornell.edu/courses/CS6817/2020fa/
+370,,, Analysis of Algorithms,6820,http://www.cs.cornell.edu/courses/CS6820/2020fa/
+371,,, Algorithmic Game Theory,6840,http://www.cs.cornell.edu/courses/CS6840/2017sp/
+372,,, The Structure of Information Networks,6850,http://www.cs.cornell.edu/courses/CS6850/2017sp/
+373,,, Logics of Programs,6860,http://www.cs.cornell.edu/courses/CS6860/2019sp/
+374,,, Introduction to Kleene Algebra,6861,http://www.cs.cornell.edu/courses/CS6861/2018sp/
+375,,, Computer Science Colloquium,7090,http://www.cs.cornell.edu/courses/CS7090/2021sp/
+376,,, Seminar in Programming Languages,7190,http://www.cs.cornell.edu/courses/CS7190/2021sp/
+377,,, Great Works in Programming Languages,7194,http://www.cs.cornell.edu/courses/CS7194/2019sp/
+378,,, Seminar on Scientific Computing and Numerics,7290,http://www.cs.cornell.edu/courses/CS7290/2021sp/
+379,,, Database Seminar,7390,http://www.cs.cornell.edu/courses/CS7390/2020fa/
+380,,, Special Topics in Computer Systems,7420,https://classes.cornell.edu/browse/roster/SP22/class/CS/7420
+381,,, Computer Networks a Decade from Now,7450,https://classes.cornell.edu/browse/roster/FA20/class/CS/7450
+382,,, Systems Research Seminar,7490,http://www.cs.cornell.edu/courses/CS7490/2021sp/
+383,,, The Great Instruction Set Architectures,7491,http://www.cs.cornell.edu/courses/CS7491/2020sp/
+384,,, Special Topics in Computer Systems,7492,https://classes.cornell.edu/browse/roster/FA20/class/CS/7492
+385,,, Computer Security Seminar,7493,https://classes.cornell.edu/browse/roster/FA21/class/CS/7493
+386,,, Special Topics in Computer Graphics,7620,https://classes.cornell.edu/browse/roster/FA21/class/CS/7620
+387,,, Computer Graphics and Vision Seminar,7690,http://www.cs.cornell.edu/courses/CS7690/2021sp/
+388,,, Special Topics in Natural Language Processing,7740,https://classes.cornell.edu/browse/roster/SP20/class/CS/7740
+389,,, Seminar in Artificial Intelligence,7790,http://www.cs.cornell.edu/courses/CS7790/2021sp/
+390,,, Special Topics in Machine Learning,7792,http://www.cs.cornell.edu/courses/CS7792/2020sp/
+391,,, Seminar in Natural Language Understanding,7794,http://www.cs.cornell.edu/courses/CS7794/2021fa/
+392,,, Robotics Seminar,7796,http://robotics.cornell.edu/seminar/
+393,,, Special Topics in Algorithms,7822,https://classes.cornell.edu/browse/roster/SP20/class/CS/7822
+394,,, Seminar on Information Networks,7850,http://www.cs.cornell.edu/courses/CS7850/2020fa/
+395,,, Seminar in Theory of Algorithms and Computing,7890,http://www.cs.cornell.edu/courses/CS7890/2021sp/
+396,,, Cryptography Seminar,7893,https://classes.cornell.edu/browse/roster/FA20/class/CS/7893
+397,,, Independent Research,7999,https://classes.cornell.edu/browse/roster/SP22/class/CS/7999
