@@ -9,7 +9,7 @@ client = Elasticsearch(hosts=['https://boilermake.es.us-east-2.aws.elastic-cloud
 
 s = Search(using=client, index="course_data") \
     .filter("term", category="search") \
-    .query("match", title="python")   \
+    .query("match", title="data science")   \
     .exclude("match", description="beta")
 
 s.aggs.bucket('per_tag', 'terms', field='tags') \
