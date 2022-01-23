@@ -15,14 +15,14 @@
 .u-section-1 .u-text-2 {
   font-size: 1.25rem;
   font-family: "Space Mono";
-  margin: 32px 599px 0 20px;
+  margin: 32px 449px 0 170px;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 1.25rem;
   text-align: center;
   font-family: "Space Mono";
-  margin: -32px 20px 0 599px;
+  margin: -32px 170px 0 449px;
 }
 
 .u-section-1 .u-text-4 {
@@ -48,13 +48,13 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 419px;
-    margin-left: 0;
+    margin-right: 349px;
+    margin-left: 70px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 0;
-    margin-left: 419px;
+    margin-right: 70px;
+    margin-left: 349px;
   }
 
   .u-section-1 .u-text-4 {
@@ -71,9 +71,11 @@
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
     margin-right: 199px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-3 {
+    margin-right: 0;
     margin-left: 199px;
   }
 }
