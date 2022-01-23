@@ -100,40 +100,8 @@
         <div
           class="u-clearfix u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-gutter-0 u-layout-wrap u-white u-layout-wrap-1"
         >
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div
-                class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-left-cell u-size-13 u-layout-cell-1"
-              >
-                <div
-                  class="u-border-2 u-border-grey-75 u-container-layout u-valign-middle-sm u-valign-middle-xs u-valign-top-lg u-valign-top-xl u-container-layout-1"
-                >
-                  <div
-                    alt=""
-                    class="u-align-left u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-image u-image-circle u-image-1"
-                    src=""
-                    data-image-width="256"
-                    data-image-height="256"
-                  ></div>
-                  <p class="u-custom-font u-text u-text-default u-text-2">
-                    Bob Smith
-                  </p>
-                </div>
-              </div>
-              <div
-                class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-47 u-layout-cell-2"
-              >
-                <div
-                  class="u-border-2 u-border-grey-75 u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-2"
-                >
-                  <p
-                    class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-custom-font u-text u-text-default u-text-3"
-                  >
-                    Comments
-                  </p>
-                </div>
-              </div>
-            </div>
+          <div class="u-layout" id="commentBox">
+      
           </div>
         </div>
       </div>
@@ -163,6 +131,50 @@
         document.getElementById("cdesc").innerHTML = data.description;
         document.getElementById("cwebsite").href = data.website;
       }
+
+      function addComments(commentData){
+
+        var toAdd = "";
+        for (let i = 0; i< commentData.length; i++){
+          var commentDiv = `<div class="u-layout-row">
+                <div
+                  class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-left-cell u-size-13 u-layout-cell-1"
+                >
+                  <div
+                    class="u-border-2 u-border-grey-75 u-container-layout u-valign-middle-sm u-valign-middle-xs u-valign-top-lg u-valign-top-xl u-container-layout-1"
+                  >
+                    <div
+                      alt=""
+                      class="u-align-left u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-image u-image-circle u-image-1"
+                      src=""
+                      data-image-width="256"
+                      data-image-height="256"
+                    ></div>
+                    <p class="u-custom-font u-text u-text-default u-text-2">
+                      ${commentData[i].uid}
+
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-47 u-layout-cell-2"
+                >
+                  <div
+                    class="u-border-2 u-border-grey-75 u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-2"
+                  >
+                    <p
+                      class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-custom-font u-text u-text-default u-text-3"
+                    >
+                      ${commentData[i].comment}
+                    </p>
+                  </div>
+                </div>
+              </div>`
+              toAdd += commentDiv;
+            }
+            document.getElementById("commentBox").innerHTML = toAdd;
+
+        }
       var params = getSearchParameters();
       let uid = params.uid;
       fetch(
@@ -171,6 +183,12 @@
       )
         .then((response) => response.json())
         .then((data) => setAllValues(data));
+        fetch(
+        "https://us-central1-boilermake-339015.cloudfunctions.net/get_comments?req_id=" +
+          uid
+      )
+        .then((response) => response.json())
+        .then((commentdata) => addComments(commentdata));
     </script>
   </body>
 </html>
