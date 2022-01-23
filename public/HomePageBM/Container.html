@@ -60,10 +60,10 @@
                 src=""
               >
                 <div class="u-container-layout u-container-layout-1" src="">
-                  <h2 class="u-custom-font u-text u-text-default u-text-1">
+                  <h2 class="u-custom-font u-text u-text-default u-text-1" id="uname">
                     University name
                   </h2>
-                  <p class="u-custom-font u-text u-text-2">Course number</p>
+                  <p class="u-custom-font u-text u-text-2" id="cnumber">Course number</p>
                   <p class="u-custom-font u-text u-text-3">
                     <a
                       href="syllabus"
@@ -79,10 +79,10 @@
                 <div
                   class="u-container-layout u-valign-middle u-container-layout-2"
                 >
-                  <h2 class="u-custom-font u-text u-text-default u-text-4">
+                  <h2 class="u-custom-font u-text u-text-default u-text-4" id="cname">
                     Course name
                   </h2>
-                  <p class="u-custom-font u-text u-text-5">
+                  <p class="u-custom-font u-text u-text-5" id="cdesc">
                     Course description
                   </p>
                   <a
@@ -438,5 +438,27 @@
         <span>Website Builder Software</span> </a
       >.
     </section>
+    <script>
+      function getSearchParameters() {
+    var prmstr = window.location.search.substr(1);
+    return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
+}
+
+function transformToAssocArray( prmstr ) {
+    var params = {};
+    var prmarr = prmstr.split("&");
+    for ( var i = 0; i < prmarr.length; i++) {
+        var tmparr = prmarr[i].split("=");
+        params[tmparr[0]] = tmparr[1];
+    }
+    return params;
+}
+
+var params = getSearchParameters();
+let uid = params.uid;
+      fetch('https://us-central1-boilermake-339015.cloudfunctions.net/get_course_data?req_id='+uid)
+      .then(response => response.json())
+      .then(data => console.log(data));
+    </script>
   </body>
 </html>
