@@ -88,7 +88,8 @@
                   <a
                     href="randomwebsite"
                     class="u-btn u-button-style u-palette-1-base u-btn-2"
-                    >Course webste</a
+                    id="cwebsite"
+                    >Course website</a
                   >
                 </div>
               </div>
@@ -453,12 +454,23 @@ function transformToAssocArray( prmstr ) {
     }
     return params;
 }
+ function setAllValues(data){
+  document.getElementById("uname").innerHTML = data.college;
+  document.getElementById("cnumber").innerHTML = data.number;
+  document.getElementById("cname").innerHTML = data.name;
+  document.getElementById("cdesc").innerHTML = data.description;
+  document.getElementById("cwebsite").href = data.website;
+  
 
+  
+
+
+ }
 var params = getSearchParameters();
 let uid = params.uid;
       fetch('https://us-central1-boilermake-339015.cloudfunctions.net/get_course_data?req_id='+uid)
       .then(response => response.json())
-      .then(data => console.log(data));
+      .then(data => setAllValues(data));
     </script>
   </body>
 </html>

@@ -35,8 +35,29 @@ def get_data(request):
         pass
         db = firestore.client()
     '''
+        # For more information about CORS and CORS preflight requests, see
+    # https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request
+    # for more information.
+
+    # Set CORS headers for the preflight request
+    if request.method == 'OPTIONS':
+        # Allows GET requests from any origin with the Content-Type
+        # header and caches preflight response for an 3600s
+        headers = {
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': 'GET',
+            'Access-Control-Allow-Headers': 'Content-Type',
+            'Access-Control-Max-Age': '3600'
+        }
+
+        return ('', 204, headers)
+
+    # Set CORS headers for the main request
+    headers = {
+        'Access-Control-Allow-Origin': '*'
+    }
     req_id = str(request.args.get('req_id'))
     doc_ref = db.collection(u'course_data').document(req_id)
 
     doc = doc_ref.get()
-    return json.dumps(doc.to_dict())
+    return(json.dumps(doc.to_dict()),200,headers)
