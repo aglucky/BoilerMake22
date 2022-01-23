@@ -84,17 +84,29 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 19px;
+    margin-top: 20px;
+    margin-right: 19px;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 527px;
+  }
+
   .u-section-1 .u-text-2 {
     margin-right: 0;
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 0;
+    width: auto;
+    margin-top: 24px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 77px;
   }
 }
 .u-section-2 {
