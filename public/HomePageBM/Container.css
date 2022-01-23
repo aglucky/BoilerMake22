@@ -20,23 +20,23 @@
 }
 
 .u-section-1 .u-text-3 {
-  font-size: 1.5rem;
-  font-family: "Space Mono";
-  margin: 20px 20px 0;
-}
-
-.u-section-1 .u-text-4 {
   font-size: 1.25rem;
   text-align: center;
   font-family: "Space Mono";
   width: 521px;
-  margin: 45px auto 0;
+  margin: 12px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.5rem;
+  font-family: "Space Mono";
+  margin: 46px 20px 0;
 }
 
 .u-section-1 .u-btn-1 {
   text-transform: uppercase;
   font-weight: 700;
-  margin: 54px auto 0;
+  margin: 61px auto 0;
 }
 
 .u-section-1 .u-text-5 {
@@ -49,7 +49,7 @@
     min-height: 493px;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -62,7 +62,15 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-3 {
-    margin-top: -30px;
+    margin-top: -145px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 83px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 24px;
   }
 
   .u-section-1 .u-text-5 {
@@ -80,16 +88,16 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 133px;
+    width: auto;
+    margin-top: 24px;
   }
 
   .u-section-1 .u-text-4 {
-    width: auto;
-    margin-top: -147px;
+    margin-top: 77px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 246px;
+    margin-top: 131px;
   }
 
   .u-section-1 .u-text-5 {
